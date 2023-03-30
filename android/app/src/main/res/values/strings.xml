@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">E-BusPass</string>
+    <string name="title_activity_main">E-BusPass</string>
+    <string name="package_name">org.example.ebuspass</string>
+    <string name="custom_url_scheme">org.example.ebuspass</string>
+</resources>
